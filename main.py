@@ -145,7 +145,7 @@ def eliminar_factura(id: int):
 
 # CRUD TRANSACCIONES
 
-
+ñ
 @app.get("/transacciones")
 def listar_transacciones():
     return lista_transacciones
